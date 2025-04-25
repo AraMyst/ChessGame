@@ -14,6 +14,7 @@ The project follows clean **OOP** principles (`Piece`, `Board`, `Game`) and alre
 ---
 
 📂 Project Structure
+
 arduino
 chess/
 ├── index.html      # markup & root node mounts
@@ -23,6 +24,7 @@ chess/
 ---
 
 🕹️ How to Play
+
 Click a piece that belongs to whose turn it is.
 
 Legal destination squares are ring-highlighted in gold.
