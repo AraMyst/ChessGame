@@ -1,6 +1,6 @@
 # ♞ Chess Game
 
-Live demo → **https://aramyst.github.io/chessgame/**
+Live demo → **https://aramyst.github.io/ChessGame/**
 
 An interactive, single-page chess board built with vanilla **JavaScript**, **HTML5** and **CSS Grid**.  
 The project follows clean **OOP** principles (`Piece`, `Board`, `Game`) and already implements:
