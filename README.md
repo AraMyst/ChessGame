@@ -2,10 +2,6 @@
 
 An interactive, single‑page chess board powered by **vanilla JavaScript**, **HTML5**, and **CSS Grid**. Play through a full match in your browser—no accounts, downloads, or frameworks required.
 
-<p align="center">
-  <a href="https://aramyst.github.io/ChessGame/" target="_blank"><img src="docs/screenshot.png" alt="Screenshot of the Chess Game" width="700"></a>
-</p>
-
 > **Live demo →** [https://aramyst.github.io/ChessGame/](https://aramyst.github.io/ChessGame/)
 
 ---
